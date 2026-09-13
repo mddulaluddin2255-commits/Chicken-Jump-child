@@ -1,0 +1,6 @@
+{
+  "name": "Chicken Jump",
+  "description": "Arcade chicken jumping game featuring virtual points, AdSense display ad integration, and rewarded ad system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
